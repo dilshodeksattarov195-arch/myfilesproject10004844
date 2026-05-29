@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsalculate",
+        "uuid": 18072964,
+        "checksum": "3yvhwa"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
